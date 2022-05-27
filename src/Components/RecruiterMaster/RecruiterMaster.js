@@ -80,7 +80,7 @@ const csvReport = {
             <div className='mb-2'>
             
           <ButtonGroup>
-            <Button variant='success'  as={Link} to='/Filter' className='mx-5 mb-3 mt-3'><i className="fa fa-filter me-2" style={{color:'#fff'}} ></i>Filter</Button>
+            <Button variant='success'  as={Link} to='/Filter' className=' mb-3 mt-3'><i className="fa fa-filter" style={{color:'#fff'}} ></i>Filter</Button>
             
           </ButtonGroup>
          
